@@ -1,0 +1,182 @@
+@font-face {
+    font-family: "givaudan";
+    src: url(../fonts/fedraserifpro.otf) unquote("format('opentype')");
+    font-weight: normal;
+    font-style: normal;
+    
+ }
+
+
+ h1.center-align {
+    font-family: "givaudan";
+    color: brown;
+}
+
+h5.center-align.white-text{
+    font-family: "givaudan";
+}
+
+h6.center-align.white-text{
+    font-family: "givaudan";
+}
+
+a.waves-effect.waves-light.btn-large.white.black-text {
+    height: auto;
+    width: 300px;
+    min-height: 20px;
+    line-height: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    border-color: grey;
+    border-style: double;
+    
+    
+}
+
+span#red_part {
+    color:brown;
+    position: relative; left: -33px;
+    text-transform: capitalize;
+    font-family: "givaudan";
+}
+
+span#red_part2 {
+    color:brown;
+    position: relative; left: -83px;
+    text-transform: capitalize;
+    font-family: "givaudan";
+}
+
+span#red_part3 {
+    color:brown;
+    position: relative; left: -60px;
+    text-transform: capitalize;
+    font-family: "givaudan";
+}
+
+span#norm_part {
+    text-transform: capitalize;
+    font-family: "givaudan";
+}
+
+i.material-icons.left {
+    font-size: 50px;
+    position: relative; top: 10px; left: -20px;
+}
+
+img#logo {
+    position: relative; top: -15px;
+}
+
+i.material-icons.black-text {
+    font-size: 50px;
+    position: relative; left: -3px;
+}
+
+a.btn-floating.btn-large.waves-effect.waves-light.white {
+    height: 80px;
+    width: 80px;
+    border-color: grey;
+    border-style: double;
+}
+
+.btn-floating.btn-large i {
+    line-height: 80px;
+}
+
+a#parfum.btn-floating.btn-large.waves-effect.waves-light.white {
+    height: 220px;
+    width: 220px;
+    border-color: grey;
+    border-style: double;
+}
+
+span#red_name {
+    
+    text-transform: capitalize;
+    font-family: cursive; 
+    font-style: italic;
+    font-size: 30px;
+    position: relative; top: 4px;
+}
+
+i#stars.material-icons {
+    font-size: 30px;
+    position: relative; top: 3px;
+    color: brown;
+}
+
+h1#parfum.center-align {
+    font-family: "givaudan";
+    color: brown;
+    text-transform: uppercase;
+    font-size: 30px;
+    
+}
+
+h5#parfum.center-align.white-text{
+    font-family: "givaudan";
+    text-transform: uppercase;
+}
+
+img#parfum {
+    position: relative; top: 5px; left: 10px; 
+}
+
+a#back.btn-floating.btn-large.waves-effect.waves-light.white {
+    height: 60px;
+    width: 60px;
+    border-color: grey;
+    border-style: double;
+}
+
+i#back.material-icons.black-text {
+    font-size: 50px;
+    position: relative; top: -12px;
+}
+
+a#parfum_d.btn-floating.btn-large.waves-effect.waves-light.white {
+    height: 150px;
+    width: 150px;
+    border-color: grey;
+    border-style: double;
+}
+
+img#parfum_d {
+    position: relative; top: 26px; left: 7px; 
+}
+
+span#parfum_d {
+    text-transform: capitalize;
+    position: relative; left: -36px;
+}
+span#parfum_d0 {
+    text-transform: capitalize;
+   
+}
+span#parfum_d1 {
+    text-transform: capitalize;
+    position: relative; left: -68px;
+}
+span#parfum_d10 {
+    text-transform: capitalize;
+    position: relative; left: -14px;
+}
+span#parfum_d100 {
+    text-transform: capitalize;
+    position: relative; left: -8px;
+}
+span#parfum_d2 {
+    text-transform: capitalize;
+    position: relative; left: -40px;
+}
+span#parfum_d20 {
+    text-transform: capitalize;
+    position: relative; left: -12px;
+}
+
+i#fleur.material-icons.left {
+    font-size: 50px;
+    position: relative; top: 20px;
+}
